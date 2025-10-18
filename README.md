@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is my solution to the **[STATS PREVIEW CARD COMPONENT]** challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).  
+This is my solution to the **[STATS PREVIEW CARD COMPONENT]** challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).  
 The goal was to build a responsive component that matches the provided design using **HTML and CSS**.
 
 ---
